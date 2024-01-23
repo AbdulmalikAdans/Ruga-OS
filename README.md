@@ -1,9 +1,5 @@
-## Fortius
-A Operating System made in C++
-## Founder:
-me
-## Developers:
-me
+# Ruga OS
+  ruga os is coded in C++
 ## InCompleted task
 Progress: 0%
 * ✗ Kernel
