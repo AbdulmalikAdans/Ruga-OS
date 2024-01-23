@@ -1,9 +1,9 @@
 ## Fortius
 A Operating System made in C++
 ## Founder:
-Logotos
+me
 ## Developers:
-Logotos
+me
 ## InCompleted task
 Progress: 0%
 * ✗ Kernel
